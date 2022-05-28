@@ -1,4 +1,11 @@
-[ 
+[   
+    {
+        "id": "orbitmc",
+        "name": "OrbitMC",
+        "addresses": [
+            "play.orbitmc.es"
+        ]
+    },
     {
         "id": "menastro",
         "name": "Menastro Network",
